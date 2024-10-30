@@ -2,7 +2,7 @@
     width: 502px;
     height: 602px;
     background-color: #4d0f00;
-    padding: 1px;
+    overflow: hidden;
 }
 
 .frame {
